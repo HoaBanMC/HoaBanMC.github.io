@@ -1,3 +1,3 @@
 ---
-permalink: trang-chu.html
+permalink: https://hoabanmc.github.io/trang-chu.html
 ---
