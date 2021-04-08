@@ -1,3 +1,3 @@
 ---
-permalink: README.html
+permalink: trang-chu.html
 ---
